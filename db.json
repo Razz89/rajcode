@@ -2,15 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Candidate 1"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Cnadidate 2"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Candidate 3"
     }
   ],
   "comments": [
@@ -26,6 +26,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "rajcode"
   }
 }
